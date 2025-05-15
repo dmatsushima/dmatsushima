@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dmatsushima
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning development of Web apprication.
-- 📫 How to reach me Twitter:@koko_ni_iru4
 
 <!---
 dmatsushima/dmatsushima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
